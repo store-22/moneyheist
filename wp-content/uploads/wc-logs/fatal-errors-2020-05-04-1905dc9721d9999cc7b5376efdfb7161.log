@@ -1,0 +1,183 @@
+2020-05-04T12:51:56+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:731
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 731
+
+2020-05-04T12:51:56+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:731
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 731
+
+2020-05-04T12:52:33+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:731
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 731
+
+2020-05-04T12:52:35+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:731
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 731
+
+2020-05-04T12:53:21+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:732
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 732
+
+2020-05-04T12:53:21+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:732
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(262): wasted_covid_19_banner_Settings->get_option_values()
+#1 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(35): wasted_covid_19_banner_Settings->settings_fields()
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#3 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#6 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\ in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 732
+
+2020-05-04T12:55:20+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:903
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(36): wasted_covid_19_banner_Settings->check_install()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-cron.php(44): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 903
+
+2020-05-04T12:55:20+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:903
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(36): wasted_covid_19_banner_Settings->check_install()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\admin.php(34): require_once('F:\\WAMP\\www\\wor...')
+#8 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): requi in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 903
+
+2020-05-04T12:55:48+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:282
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->register_settings('')
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 F:\WAMP\www\wordpress\wp-admin\admin.php(170): do_action('admin_init')
+#4 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): require_once('F:\\WAMP\\www\\wor...')
+#5 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 282
+
+2020-05-04T12:58:23+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:896
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(37): wasted_covid_19_banner_Settings->run_jobs()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-cron.php(44): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 896
+
+2020-05-04T12:58:23+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:896
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(37): wasted_covid_19_banner_Settings->run_jobs()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\admin-ajax.php(22): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 896
+
+2020-05-04T12:58:27+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:896
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(37): wasted_covid_19_banner_Settings->run_jobs()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\admin.php(34): require_once('F:\\WAMP\\www\\wor...')
+#8 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): require_on in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 896
+
+2020-05-04T12:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:904
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(36): wasted_covid_19_banner_Settings->check_install()
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->init_settings('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-settings.php(540): do_action('init')
+#5 F:\WAMP\www\wordpress\wp-config.php(90): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-load.php(37): require_once('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\admin.php(34): require_once('F:\\WAMP\\www\\wor...')
+#8 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): requi in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 904
+
+2020-05-04T13:00:02+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:174
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(317): wasted_covid_19_banner_Settings->get_notice_display(true)
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->settings_page('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-admin\admin.php(254): do_action('settings_page_w...')
+#5 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): require_once('F:\\WAMP\\www\\wor...')
+#6 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 174
+
+2020-05-04T13:00:34+00:00 CRITICAL Uncaught Error: Call to undefined function Orchestrated_Corona_Virus_Banner() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:175
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php(317): wasted_covid_19_banner_Settings->get_notice_display(true)
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->settings_page('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-admin\admin.php(254): do_action('settings_page_w...')
+#5 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): require_once('F:\\WAMP\\www\\wor...')
+#6 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 175
+
+2020-05-04T13:30:36+00:00 CRITICAL Uncaught Error: Call to undefined function printr_r() in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php:369
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): wasted_covid_19_banner_Settings->settings_page('')
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 F:\WAMP\www\wordpress\wp-admin\admin.php(254): do_action('settings_page_w...')
+#4 F:\WAMP\www\wordpress\wp-admin\options-general.php(10): require_once('F:\\WAMP\\www\\wor...')
+#5 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\plugins\byebyecovid-19\includes\wasted-covid-19-banner-settings.php on line 369
+

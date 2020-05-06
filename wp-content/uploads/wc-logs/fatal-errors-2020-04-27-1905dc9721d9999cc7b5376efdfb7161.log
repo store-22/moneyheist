@@ -1,0 +1,39 @@
+2020-04-27T06:25:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_menu_page(), 2 passed in F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php on line 20 and at least 4 expected in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php:1286
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php(20): add_menu_page('Example options', 'Example options')
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): addmenu('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#5 F:\WAMP\www\wordpress\wp-admin\menu.php(326): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-admin\admin.php(153): require('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\plugins.php(10): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php on line 1286
+
+2020-04-27T06:26:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_menu_page(), 3 passed in F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php on line 20 and at least 4 expected in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php:1286
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php(20): add_menu_page('Hello world', 'Hello World', 4)
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): addmenu('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#5 F:\WAMP\www\wordpress\wp-admin\menu.php(326): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-admin\admin.php(153): require('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\plugins.php(10): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php on line 1286
+
+2020-04-27T06:26:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_menu_page(), 3 passed in F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php on line 20 and at least 4 expected in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php:1286
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-content\plugins\chess-caker22\chess-caker22.php(20): add_menu_page('Hello world', 'Hello World', 4)
+#1 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(287): addmenu('')
+#2 F:\WAMP\www\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 F:\WAMP\www\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 F:\WAMP\www\wordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#5 F:\WAMP\www\wordpress\wp-admin\menu.php(326): require_once('F:\\WAMP\\www\\wor...')
+#6 F:\WAMP\www\wordpress\wp-admin\admin.php(153): require('F:\\WAMP\\www\\wor...')
+#7 F:\WAMP\www\wordpress\wp-admin\plugins.php(10): require_once('F:\\WAMP\\www\\wor...')
+#8 {main}
+  thrown in F:\WAMP\www\wordpress\wp-admin\includes\plugin.php on line 1286
+

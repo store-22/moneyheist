@@ -1,0 +1,8 @@
+2020-05-06T08:10:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_labels() in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:75
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 75
+

@@ -1,0 +1,50 @@
+2020-04-28T08:46:47+00:00 CRITICAL syntax error, unexpected 'thing' (T_STRING) in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 9
+
+2020-04-28T09:11:04+00:00 CRITICAL Uncaught Error: Class 'dog' not found in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:8
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 8
+
+2020-04-28T09:11:55+00:00 CRITICAL Uncaught Error: Class 'dog' not found in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:21
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 21
+
+2020-04-28T09:13:55+00:00 CRITICAL Uncaught Error: Class 'dog' not found in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:21
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 21
+
+2020-04-28T09:16:39+00:00 CRITICAL Uncaught Error: Class 'world' not found in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:30
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 30
+
+2020-04-28T09:16:51+00:00 CRITICAL Uncaught Error: Class 'world' not found in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:30
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 30
+
+2020-04-28T09:17:17+00:00 CRITICAL Uncaught Error: Call to undefined method dog::Myfuncntion() in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php:31
+Stack trace:
+#0 F:\WAMP\www\wordpress\wp-includes\template-loader.php(106): include()
+#1 F:\WAMP\www\wordpress\wp-blog-header.php(19): require_once('F:\\WAMP\\www\\wor...')
+#2 F:\WAMP\www\wordpress\index.php(17): require('F:\\WAMP\\www\\wor...')
+#3 {main}
+  thrown in F:\WAMP\www\wordpress\wp-content\themes\shop-isle\casino.php on line 31
+
